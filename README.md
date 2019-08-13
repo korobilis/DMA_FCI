@@ -1,7 +1,7 @@
 Please read this file very carefully before you start using the code. This folder contains the following files:
 ___________________________________________________________________________________
 1) OTHER CODE:   
-   B. TVP-FAVAR          : Estimate a single TVP-FAVAR. This code is for DEMONSTRATION 
+   A. TVP-FAVAR          : Estimate a single TVP-FAVAR. This code is for DEMONSTRATION 
                            only, and it should be used as a starting point in order to
                            understand how estimation works (before going to the multiple
                            model case using DMA)
